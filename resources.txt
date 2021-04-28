@@ -1,0 +1,2 @@
+https://github.com/mike-matera/ArduinoSTL
+https://www.embarcados.com.br/elementos-de-rtos-no-arduino/
